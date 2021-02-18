@@ -20,4 +20,4 @@ start with RR of the outer rail (OR) from 25 cm to 0.25 cm, afterwards RR of the
 The publication of the model obejcts scope solely scientific research. Any commercial use is prohibited and violate the copyright rights of the owner.
 
 © Michael Ostermann
-michael.ostermann@alumni.tuwien.ac.at
+michael.ostermann@tuwien.ac.at
