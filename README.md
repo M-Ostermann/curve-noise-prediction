@@ -17,6 +17,8 @@ The model objects contain:
 (*) watch out for the correct order of input data:  
 start with RR of the outer rail (OR) from 25 cm to 0.25 cm, afterwards RR of the inner rail (IR) from 25 cm to 0.25 cm, vertical TDR OR from 100 Hz to 5000 Hz, vertical TDR IR from 100 Hz to 5000 Hz, lateral TDR OR from 100 Hz to 5000 Hz and lateral TDR IR from 100 Hz to 5000 Hz  
   
+random forest models are in an extra relaese due to file size.  
+  
 The publication of the model obejcts targets solely scientific research. Any commercial use is prohibited and violate the copyright of the owner.  
   
 © Michael Ostermann  
