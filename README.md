@@ -22,4 +22,4 @@ random forest models are in an extra relaese due to file size.
 The publication of the model obejcts targets solely scientific research. Any commercial use is prohibited and violate the copyright of the owner.  
   
 © Michael Ostermann  
-michael.ostermann@tuwien.ac.at
+michael.ostermann@aon.at
