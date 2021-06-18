@@ -19,7 +19,7 @@ start with RR of the outer rail (OR) from 25 cm to 0.25 cm, afterwards RR of the
   
 random forest models are in an extra relaese due to file size.  
   
-The publication of the model obejcts targets solely scientific research. Any commercial use is prohibited and violate the copyright of the owner.  
+The publication of the model obejcts targets solely scientific research. Any commercial use is prohibited and violate the copyright of the owner. Please cite the thesis if you use the models for a publication.
   
 © Michael Ostermann  
 michael.ostermann@aon.at
